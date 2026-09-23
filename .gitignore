@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Raw/oversized course materials — not meant for this public website repo.
+# (Convert to smaller PDFs before tracking, if they need to be public.)
+courses/**/*.pptx
+courses/**/*.mp4
+courses/**/*.zip
+courses/**/*.CHE
+courses/**/Thumbs.db
+courses/SMS491/hurricane_island_data/
